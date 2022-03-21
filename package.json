@@ -18,13 +18,11 @@
   "homepage": "https://github.com/ApekshaIndumini/CypressTest#readme",
   "devDependencies": {
     "@types/cypress-cucumber-preprocessor": "^4.0.1",
-    "cypress": "^9.5.2"
-  },
-  "dependencies": {
+    "cypress": "^9.5.2",
     "cypress-cucumber-preprocessor": "^4.3.1"
   },
+  "dependencies": {},
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
   }
-  
 }
