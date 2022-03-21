@@ -4,6 +4,9 @@
 - [x] [Node.js](https://nodejs.org/en/)v14.18.0
 - [x] [React](https://facebook.github.io/react/) 17.0.2
 
+## Used SCripting language
+- Java Script
+
 
 ## Cypress
 1.To run the test in interactive manner you should execute below command
